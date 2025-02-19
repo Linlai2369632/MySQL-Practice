@@ -1,0 +1,49 @@
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Mysql test.exe.config
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Mysql test.exe
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Mysql test.pdb
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\BouncyCastle.Cryptography.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Google.Protobuf.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\K4os.Compression.LZ4.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\K4os.Hash.xxHash.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\MySql.Data.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\MySqlConnector.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Buffers.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.IO.Pipelines.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Memory.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\ZstdSharp.dll
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\BouncyCastle.Cryptography.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Google.Protobuf.pdb
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Google.Protobuf.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\K4os.Compression.LZ4.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\K4os.Hash.xxHash.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\MySql.Data.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\MySqlConnector.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Buffers.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.IO.Pipelines.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Memory.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\foxwi\Downloads\C# test\Mysql test\obj\x86\Debug\Mysql test.csproj.AssemblyReference.cache
+C:\Users\foxwi\Downloads\C# test\Mysql test\obj\x86\Debug\Mysql_test.Form1.resources
+C:\Users\foxwi\Downloads\C# test\Mysql test\obj\x86\Debug\Mysql_test.Properties.Resources.resources
+C:\Users\foxwi\Downloads\C# test\Mysql test\obj\x86\Debug\Mysql test.csproj.GenerateResource.cache
+C:\Users\foxwi\Downloads\C# test\Mysql test\obj\x86\Debug\Mysql test.csproj.CoreCompileInputs.cache
+C:\Users\foxwi\Downloads\C# test\Mysql test\obj\x86\Debug\Mysql test.csproj.CopyComplete
+C:\Users\foxwi\Downloads\C# test\Mysql test\obj\x86\Debug\Mysql test.exe
+C:\Users\foxwi\Downloads\C# test\Mysql test\obj\x86\Debug\Mysql test.pdb
